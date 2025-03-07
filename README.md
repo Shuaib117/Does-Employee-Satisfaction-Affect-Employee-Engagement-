@@ -40,8 +40,11 @@ Sentiment analysis on employee comments.
 
 ## Key Findings
 ✅ Work-life balance & compensation strongly correlate with overall satisfaction.
+
 ✅ Top-rated companies maintain consistent engagement levels across factors.
+
 ✅ Poor leadership is a common complaint in low-rated companies.
+
 ✅ Employee biases can influence ratings (e.g., extreme scores in certain industries).
 
 ## Technologies Used
@@ -50,7 +53,9 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 ## Next Steps & Future Work
 🔹 Machine Learning Predictions: Forecast employee satisfaction based on past reviews.
+
 🔹 Company-Specific Recommendations: Provide insights for improving engagement.
+
 🔹 Financial Integration: Assess the impact of engagement on company revenue.
 
 ## Project Status 
